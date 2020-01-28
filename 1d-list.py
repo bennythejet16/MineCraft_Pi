@@ -1,4 +1,4 @@
-# Base project format.
+# Base project format
 # Documentation https://github.com/raspberrypilearning/getting-started-with-minecraft-pi/blob/master/worksheet.md
 from mcpi.minecraft import Minecraft
 from mcpi import block

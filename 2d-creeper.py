@@ -1,3 +1,4 @@
+# CWC,Benjamin Kilgore
 # Base project format.
 # put this on the desktop : git clone https://github.com/tritechsc/mcpi
 from mcpi.minecraft import Minecraft
